@@ -7,3 +7,5 @@
 </div>
 
 ## Week 2 - Python: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/WEEK-2_python.ipynb)
+
+## Rock, Paper, and Scissors Asynchronous Exercise: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/rock_paper_scissors.ipynb)
