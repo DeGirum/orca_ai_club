@@ -12,6 +12,8 @@
 
 ## Rock, Paper, and Scissors Solution: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/rock_paper_scissors_solution.ipynb)
 
+## Week 3 - Digital Images: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/WEEK-3_images_colab.ipynb)
+
 ## Seal Exercise [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/seal_problem.ipynb)
 
 ## Seal Exercise Solution [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/seal_solution.ipynb)
