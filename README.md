@@ -17,3 +17,5 @@
 ## Seal Exercise [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/seal_problem.ipynb)
 
 ## Seal Exercise Solution [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/seal_solution.ipynb)
+
+## Week 4 - Math Notebook: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/The_Math_that_Powers_AI_Examples.ipynb)
