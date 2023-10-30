@@ -25,4 +25,5 @@ Seal Exercise Solution [![colab](https://colab.research.google.com/assets/colab-
 ## Week 4 - 
 
 Math Notebook: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week4/The_Math_that_Powers_AI_Examples.ipynb)
+
 Math Exercises Solutions visualized: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week4/Math_HW1_Solutions_Visualized.ipynb)
