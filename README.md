@@ -8,20 +8,21 @@
 
 ## Week 2 - 
 
-Python: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/WEEK-2_python.ipynb)
+Python: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week2/WEEK-2_python.ipynb)
 
-Rock, Paper, and Scissors Asynchronous Exercise: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/rock_paper_scissors.ipynb)
+Rock, Paper, and Scissors Asynchronous Exercise: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week2/rock_paper_scissors.ipynb)
 
-Rock, Paper, and Scissors Solution: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/rock_paper_scissors_solution.ipynb)
+Rock, Paper, and Scissors Solution: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week2/rock_paper_scissors_solution.ipynb)
 
 ## Week 3 - 
 
-Digital Images: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/WEEK-3_images_colab.ipynb)
+Digital Images: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week3/WEEK-3_images_colab.ipynb)
 
-Seal Exercise [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/seal_problem.ipynb)
+Seal Exercise [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week3/seal_problem.ipynb)
 
-Seal Exercise Solution [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/seal_solution.ipynb)
+Seal Exercise Solution [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week3/seal_solution.ipynb)
 
 ## Week 4 - 
 
-Math Notebook: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/The_Math_that_Powers_AI_Examples.ipynb)
+Math Notebook: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week4/The_Math_that_Powers_AI_Examples.ipynb)
+Math Exercises Solutions visualized: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week4/Math_HW1_Solutions_Visualized.ipynb)
