@@ -27,3 +27,7 @@ Seal Exercise Solution [![colab](https://colab.research.google.com/assets/colab-
 Math Notebook: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week4/The_Math_that_Powers_AI_Examples.ipynb)
 
 Math Exercises Solutions visualized: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week4/Math_HW1_Solutions_Visualized.ipynb)
+
+## Week 7 - 
+
+Running your First Model through DeLight: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week7/Week7_RunningYourFirstAIModel.ipynb)
