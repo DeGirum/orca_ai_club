@@ -31,3 +31,7 @@ Math Exercises Solutions visualized: [![colab](https://colab.research.google.com
 ## Week 7 - 
 
 Running your First Model through DeLight: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week7/Week7_RunningYourFirstAIModel.ipynb)
+
+Confusion Matrix Exercise: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week7/Week7_ConfusionMatrixExercise.ipynb)
+
+Confusion Matrix Solution: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeGirum/orca_ai_club/blob/main/Week7/Week7_ConfusionMatrixSolution.ipynb)
